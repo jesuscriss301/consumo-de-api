@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+
+body{
+	background-color: #6EC8CB;
+}
+
+#nombreUsu{
+	padding-right: 20px;
+}
+
+.contenido{
+padding:20px;
+  display: 
+  
+} 
+.formulario{
+
+	border: 1px solid #D5D2D2;
+	border-radius: 5px;
+	padding-: 15%;
+	width: 100%;
+	text-align:center;
+	position: absolute;
+	/*top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);*/
+	background-color: #489093;
+	box-shadow: 10px 10px 9px -6px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 9px -6px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 9px -6px rgba(0,0,0,0.75);
+
+font-size: 17px;
+	
+	
+
+}
+
+header{
+	  background-color: #489093;
+    text-align: center;
+    margin: auto;
+    font-size: 50px;
+    padding: 10px 10px;
+    width: 98%;
+    color:#ddd;
+}
+header h1{
+	text-align: center;
+	padding-top: 20px;
+  width: 100%;
+
+}
+
+
+
+.contenido2{
+	width: 100%;
+	margin-top: 30px;
+	display: block;
+	overflow: hidden;
+	padding: 20px;
+
+	
+}
+
+.submenu{
+	width: 25%;
+	height: auto;
+	float: left;
+	margin: 10px;
+	border-style: solid;
+
+}
+
+.submenu a{
+	display: block;
+	height: 50px;
+	
+}
+
+.informacion{
+	float: left;
+	margin:10px;
+	width: 65%;
+
+	
+}
+
+.submenu a:hover{
+	background-color: rgba(111, 138, 138, 0.4); 
+	
+
+
+}
